@@ -33,7 +33,7 @@
     <ClInclude Include="Helpers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Ubuntu\*.h">
+    <ClInclude Include="Ubuntu\InitTasks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -53,7 +53,7 @@
     <ClCompile Include="DistributionInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Ubuntu\*.cpp">
+    <ClCompile Include="Ubuntu\InitTasks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
